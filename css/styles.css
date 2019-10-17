@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+margin: 0;
+text align: center;
+}
+
+body {
+	background color: lightcoral;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'
+}
+
+header {
+	background-color: palegoldenrod;
+	padding: 5px;
+	text-align: center;
+}
+
+img {
+	width: 30%;
+	float: left;
+	padding-right: 10px;
+}
+
+article {
+	background-color: paleturquoise
+}
+
+footer {
+	background-color: palegoldenrod;
+	text-align: center
+}
